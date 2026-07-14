@@ -1,91 +1,115 @@
-# Hi, I'm Samarth Patel
+<div align="center">
 
-### Robotics Software Engineer | SLAM | Perception | Autonomous Navigation
+# Hi, I'm Samarth Patel 👋
 
-M.Sc. Automation & Robotics student at **TU Dortmund University**, based in Dortmund, Germany.
+## Robotics Software & Computer Vision Engineer
 
-I build robotics systems that can **sense, localize, navigate, and run reliably on embedded hardware**.
+**I build intelligent machines that can see, understand, navigate and operate reliably in the real world.**
 
----
+M.Sc. Automation & Robotics @ **TU Dortmund University** | Dortmund, Germany
 
-## What I work on
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge)](https://samp2411.github.io)
+[![Repositories](https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github)](https://github.com/SAMP2411?tab=repositories)
 
-- **Robot perception:** LiDAR, IMU, GPS, cameras and sensor integration
-- **SLAM and localization:** GMapping, Cartographer, AMCL and TF2
-- **Autonomous navigation:** ROS, ROS2, Nav2, move_base, DWA and TEB
-- **Embedded systems:** Arduino, Raspberry Pi, Yocto Linux and hardware communication
-- **Robot deployment:** RAUC A/B OTA, containerd and GitLab CI/CD
+</div>
 
 ---
 
-## Featured projects
+## What makes me different ✨
 
-### Telepresence Robot
+- 🤖 **Full-stack robotics:** I work from sensors and algorithms to motors, embedded hardware and deployment.
+- 👁️ **Perception and computer vision:** I build systems using LiDAR, cameras, IMUs, GPS, OpenCV and deep-learning inference.
+- 🧭 **SLAM and navigation:** I have hands-on experience with mapping, localization, path planning and obstacle avoidance.
+- ⚙️ **Systems mindset:** I care about memory, reliability, failure handling, testing and how software reaches the physical robot.
+- 🧩 **Cross-domain engineering:** My work connects robotics, embedded Linux, control, AI, CI/CD and mechanical design.
 
-ROS-based indoor mobile robot with LiDAR SLAM, AMCL localization, autonomous navigation and Arduino motor control.
+---
 
-- Approximately **95% mapping accuracy**
-- **Below 5 cm localization error** in controlled tests
-- Approximately **80% reduction in collisions** after iterative testing
+## Featured engineering work 🚀
 
-[View the Telepresence Robot project](https://github.com/SAMP2411/Telepresence-Robot)
+### 🤖 [Telepresence Robot](https://github.com/SAMP2411/Telepresence-Robot)
 
-### Embedded Linux and Secure OTA
+**ROS mobile robot | LiDAR SLAM | AMCL | Autonomous navigation | Arduino**
 
-Minimal ARM Linux platform built with Yocto, BusyBox, U-Boot, containerd and RAUC A/B updates.
+> Built and integrated an indoor robot capable of mapping, localization, obstacle avoidance and autonomous movement.
+
+- **95% mapping accuracy** in the tested environment
+- **Below 5 cm localization error** during controlled tests
+- **80% reduction in collisions** after iterative tuning and validation
+
+---
+
+### 👁️ [Real-Time Face Recognition System](https://github.com/SAMP2411/Face-Recognition-System)
+
+**Computer vision | InsightFace | ONNX Runtime | OpenCV | Python**
+
+> Developed a local face-registration and recognition pipeline designed for pose, motion and lighting variation.
+
+- Guided **five-angle face registration**
+- **85%+ similarity accuracy** with **0 false positives in testing**
+- Headless support, camera recovery and recognition smoothing
+
+---
+
+### 🐧 Embedded Linux and Secure OTA Platform
+
+**Yocto | RAUC A/B OTA | U-Boot | containerd | GitLab CI/CD**
+
+> Designed a lightweight ARM Linux and software-deployment architecture for a resource-constrained edge device.
 
 - Approximately **17 MB idle RAM**
-- **34% memory reduction**
-- CI build time reduced from approximately **2.5 hours to 5–10 minutes**
+- **34% reduction in memory usage**
+- CI build time reduced from **2.5 hours to 5–10 minutes**
 
-### Real-Time Face Recognition
+---
 
-Local face-recognition and registration system using InsightFace, ONNX Runtime and OpenCV.
+### 🛰️ [Autonomous Unmanned Ground Vehicle](https://github.com/SAMP2411/Unmanned_Ground_Vehicle)
 
-- Guided five-angle registration
-- Motion, pose and distance validation
-- Headless and GUI execution
+**GPS/IMU navigation | Kalman Filter | PID | Raspberry Pi | Arduino**
 
-[View the Face Recognition project](https://github.com/SAMP2411/Face-Recognition-System)
-
-### Autonomous UGV
-
-GPS and IMU waypoint-navigation platform using Raspberry Pi, Arduino, a Kalman Filter and PID control.
+> Built an outdoor waypoint-navigation system combining sensor fusion, embedded control and extensive field testing.
 
 - Improved positioning from approximately **±3 m to below 50 cm**
-- Tested with up to **50 waypoints**
-- Approximately **10 km of field testing**
-
-[View the Autonomous UGV project](https://github.com/SAMP2411/Unmanned_Ground_Vehicle)
+- Navigation with up to **50 waypoints**
+- Approximately **10 km of real-world testing**
 
 ---
 
-## Tools I use
+## My engineering toolbox 🛠️
 
-**Robotics**  
-ROS · ROS2 · Nav2 · Gazebo · RViz · TF2 · GMapping · AMCL
+### Robotics and autonomy
 
-**Programming**  
-Python · C++ · Embedded C · Bash · MATLAB
+`ROS` `ROS2` `Nav2` `SLAM` `AMCL` `TF2` `move_base` `DWA` `TEB` `Gazebo` `RViz`
 
-**Embedded and deployment**  
-Yocto · Buildroot · U-Boot · RAUC · containerd · GitLab CI/CD
+### Computer vision and AI
 
-**Perception and data**  
-LiDAR · IMU · GPS · OpenCV · InsightFace · ONNX Runtime · MQTT
+`OpenCV` `InsightFace` `ONNX Runtime` `scikit-learn` `NumPy` `Pandas` `Isolation Forest`
 
----
+### Embedded and deployment
 
-## Current focus
+`Yocto` `Buildroot` `RAUC` `U-Boot` `containerd` `Arduino` `Raspberry Pi` `GitLab CI/CD`
 
-- Building stronger ROS2 and Nav2 expertise
-- Autonomous mobile robot navigation
-- Perception, localization and behavior validation
-- Reliable software deployment to physical robots
+### Programming and engineering
+
+`Python` `C++` `Embedded C` `Bash` `MATLAB` `SolidWorks` `Fusion 360`
 
 ---
 
-## Find me here
+## What I am exploring now 🔍
 
-- [Engineering portfolio](https://samp2411.github.io)
-- [GitHub projects](https://github.com/SAMP2411?tab=repositories)
+- Advanced **ROS2 and Nav2** development
+- Reliable autonomy for **mobile and warehouse robots**
+- **Perception, localization and behavior validation**
+- Safe deployment of AI and robotics software to **physical systems**
+
+---
+
+<div align="center">
+
+### Building robots that move beyond demos and work as complete systems.
+
+**Robotics Software | Computer Vision | Autonomous Navigation | Embedded Systems**
+
+[Explore my portfolio](https://samp2411.github.io) · [View my repositories](https://github.com/SAMP2411?tab=repositories)
+
+</div>
