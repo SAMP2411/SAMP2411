@@ -2,7 +2,7 @@
 
 # Hi, I'm Samarth Patel 👋
 
-**Multidisciplinary engineer working across AI, robotics, simulation, embedded systems and reliable software delivery.**
+**Engineer working across AI, robotics, simulation, embedded systems and reliable software delivery.**
 
 I enjoy turning algorithms and engineering ideas into systems that can be tested, deployed and improved in the real world.
 
