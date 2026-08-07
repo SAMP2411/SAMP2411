@@ -2,9 +2,9 @@
 
 # Hi, I'm Samarth Patel 👋
 
-## Robotics Software & Computer Vision Engineer
+**Multidisciplinary engineer working across AI, robotics, simulation, embedded systems and reliable software delivery.**
 
-**I build intelligent machines that can see, understand, navigate and operate reliably in the real world.**
+I enjoy turning algorithms and engineering ideas into systems that can be tested, deployed and improved in the real world.
 
 M.Sc. Automation & Robotics @ **TU Dortmund University** | Dortmund, Germany
 
@@ -15,13 +15,14 @@ M.Sc. Automation & Robotics @ **TU Dortmund University** | Dortmund, Germany
 
 ---
 
-## What makes me different ✨
+## What I bring ✨
 
-- 🤖 **Full-stack robotics:** I work from sensors and algorithms to motors, embedded hardware and deployment.
-- 👁️ **Perception and computer vision:** I build systems using LiDAR, cameras, IMUs, GPS, OpenCV and deep-learning inference.
-- 🧭 **SLAM and navigation:** I have hands-on experience with mapping, localization, path planning and obstacle avoidance.
-- ⚙️ **Systems mindset:** I care about memory, reliability, failure handling, testing and how software reaches the physical robot.
-- 🧩 **Cross-domain engineering:** My work connects robotics, embedded Linux, control, AI, CI/CD and mechanical design.
+- 🧠 **AI and data:** Machine learning, computer vision, anomaly detection, model inference and data-driven engineering.
+- 🤖 **Robotics and autonomy:** Sensors, SLAM, localization, navigation, controls and complete physical-system integration.
+- 🧪 **Simulation and validation:** Gazebo, MATLAB, Simulink and structured testing across simulated and real systems.
+- 🐧 **Embedded and edge systems:** Lightweight Linux, constrained devices, hardware interfaces and dependable software updates.
+- 🚀 **DevOps and delivery:** CI/CD, containers, automation, reproducibility, deployment and failure-aware system design.
+- 🧩 **Cross-domain engineering:** I can connect software, AI, control, electronics and mechanical design instead of treating them as isolated layers.
 
 ---
 
@@ -77,38 +78,43 @@ M.Sc. Automation & Robotics @ **TU Dortmund University** | Dortmund, Germany
 
 ## My engineering toolbox 🛠️
 
-### Robotics and autonomy
-
-`ROS` `ROS2` `Nav2` `SLAM` `AMCL` `TF2` `move_base` `DWA` `TEB` `Gazebo` `RViz`
-
-### Computer vision and AI
+### AI, data and computer vision
 
 `OpenCV` `InsightFace` `ONNX Runtime` `scikit-learn` `NumPy` `Pandas` `Isolation Forest`
 
-### Embedded and deployment
+### Robotics and autonomous systems
 
-`Yocto` `Buildroot` `RAUC` `U-Boot` `containerd` `Arduino` `Raspberry Pi` `GitLab CI/CD`
+`ROS` `ROS2` `Nav2` `SLAM` `AMCL` `TF2` `move_base` `DWA` `TEB` `RViz`
 
-### Programming and engineering
+### Simulation, control and design
 
-`Python` `C++` `Embedded C` `Bash` `MATLAB` `SolidWorks` `Fusion 360`
+`Gazebo` `MATLAB` `Simulink` `Simscape` `PID` `Kalman Filter` `SolidWorks` `Fusion 360`
+
+### Embedded systems and DevOps
+
+`Yocto` `Buildroot` `RAUC` `U-Boot` `containerd` `GitLab CI/CD` `Arduino` `Raspberry Pi`
+
+### Programming
+
+`Python` `C++` `Embedded C` `Bash`
 
 ---
 
 ## What I am exploring now 🔍
 
-- Advanced **ROS2 and Nav2** development
-- Reliable autonomy for **mobile and warehouse robots**
-- **Perception, localization and behavior validation**
-- Safe deployment of AI and robotics software to **physical systems**
+- Applied **AI and machine learning** for engineering systems
+- **Simulation, controls and validation** for autonomous and physical systems
+- Reliable **embedded Linux, edge computing and software deployment**
+- **ROS2, perception and navigation** for mobile robots
+- Engineering workflows that connect **development, testing and operations**
 
 ---
 
 <div align="center">
 
-### Building robots that move beyond demos and work as complete systems.
+### Building intelligent systems that move from ideas to reliable implementation.
 
-**Robotics Software | Computer Vision | Autonomous Navigation | Embedded Systems**
+**AI & Machine Learning | Robotics | Simulation | Embedded Systems | DevOps**
 
 [Explore my portfolio](https://samp2411.github.io) · [View my repositories](https://github.com/SAMP2411?tab=repositories)
 
